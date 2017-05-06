@@ -7,4 +7,15 @@
     <string name="borrar">Borrar</string>
     <string name="error_numero_uno">Diguite el numero Uno</string>
     <string name="error_numero_dos">Diguite el numero Dos</string>
+    <string name="error_numero_dos_cero">No se puede divivir entre cero</string>
+    <string name="suma">suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+    <string-array name="opciones">
+        <item>@string/suma</item>
+        <item>@string/resta</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
 </resources>
